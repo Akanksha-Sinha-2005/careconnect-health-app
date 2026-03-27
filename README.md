@@ -29,8 +29,5 @@ This app can help NGOs:
 - Track and store user data
 - Improve response time in emergencies
 
-## 🔗 Live Demo
-(Add your Render link here)
-
 ## 📂 GitHub Repo
-(Add your GitHub link here)
+https://github.com/Akanksha-Sinha-2005/careconnect-health-app
